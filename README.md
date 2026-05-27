@@ -45,5 +45,3 @@ https://joannas-image-caption-generator3.streamlit.app/
 ```bash
 streamlit run app.py
 ```
-
-The first run may take a little longer because the pretrained model is downloaded.
