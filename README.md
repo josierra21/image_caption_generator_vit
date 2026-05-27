@@ -38,6 +38,10 @@ python -m pip install -r requirements.txt
 
 ## Running the App
 
+You can use the deployed app here:
+
+https://joannas-image-caption-generator3.streamlit.app/
+
 ```bash
 streamlit run app.py
 ```
